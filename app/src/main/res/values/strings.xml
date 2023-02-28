@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">CusromView</string>
+    <string name="app_name">CustomViewHomework</string>
+    <string name="change_mode">Change Mode</string>
 </resources>
